@@ -26,6 +26,12 @@ a{
     right: 32px;
     font-size: 38px;
 }
+h4{
+    font-size: 38px;
+    color: white;
+    text-align: center;
+    margin-top: 32px;
+}
 .logo{
     
     margin: 32px 0px 32px 0px;
